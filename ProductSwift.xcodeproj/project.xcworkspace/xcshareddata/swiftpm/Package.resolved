@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "anycodable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Flight-School/AnyCodable",
+      "state" : {
+        "revision" : "862808b2070cd908cb04f9aafe7de83d35f81b05",
+        "version" : "0.6.7"
+      }
+    },
+    {
+      "identity" : "productpackegeopenapi",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/samirannsr/productPackegeOpenApi",
+      "state" : {
+        "branch" : "main",
+        "revision" : "d1f2c455849e252e40453ba4e8bc0b0fc7d76a94"
+      }
+    }
+  ],
+  "version" : 2
+}
